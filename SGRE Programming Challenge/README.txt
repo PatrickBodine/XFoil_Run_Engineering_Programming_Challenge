@@ -23,7 +23,7 @@ INSTRUCTIONS ON USE:
 
 3. Wait 2-4 minutes, depending on hardware, for all XFoil runs to excecute completely
 
-4. Graphs should appear in all tabs, manipulate to sliders to quickly change angle of attack and reynolds number
+4. Graphs should appear in all tabs, manipulate sliders to quickly change angle of attack and reynolds number
 
 
 
