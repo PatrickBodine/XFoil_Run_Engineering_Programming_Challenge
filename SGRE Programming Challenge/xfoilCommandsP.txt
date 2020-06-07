@@ -1,0 +1,13 @@
+PLOP
+G F
+
+
+LOAD .\NACA633618.txt
+NACA
+PANE
+OPER
+VISC 15000000
+ITER 250
+alfa 20.000000
+CPWR
+dataPressure.txt

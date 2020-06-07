@@ -1,0 +1,29 @@
+PLOP
+G F
+
+
+LOAD .\NACA633618.txt
+NACA
+PANE
+OPER
+VISC 15000000
+ITER 250
+PACC
+dataPolars.txt
+
+aseq -10 -9 1
+aseq -8 -7 1
+aseq -6 -5 1
+aseq -4 -3 1
+aseq -2 -1 1
+aseq 0 1 1
+aseq 2 3 1
+aseq 4 5 1
+aseq 6 7 1
+aseq 8 9 1
+aseq 10 11 1
+aseq 12 13 1
+aseq 14 15 1
+aseq 16 17 1
+aseq 18 20 1
+PACC
